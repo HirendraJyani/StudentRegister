@@ -15,7 +15,7 @@ require_once('config.php');
 
 
 
-    <form class="form-signin" action="register.php" method="post data-netlify="true"">
+    <form class="form-signin" action="register.php" method="post" data-netlify="true" >
       <input type="hidden" name="form-name" value="contact" />
       <div>
         <?php
