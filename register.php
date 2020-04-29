@@ -15,7 +15,7 @@ require_once('config.php');
 
 
 
-    <form class="form-signin" action="register.php" method="post">
+    <form class="form-signin" action="register.php" method="post data-netlify="true"">
 
       <div>
         <?php
